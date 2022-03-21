@@ -11,5 +11,5 @@ Calculadora criada com o Framework React Native.
 ![Imagem aviso](https://github.com/LuizEduardodeLima/Calculadora-React-Native/blob/main/assets/instalado.png)
 
 
-### Interface da aplicação:
+### Print da tela do meu telefone mostrando a interface da aplicação:
 ![Imagem tela](https://github.com/LuizEduardodeLima/Calculadora-React-Native/blob/main/assets/tela.png)
